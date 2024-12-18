@@ -1,0 +1,22 @@
+
+.filters button {
+    padding: 8px 15px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+    font-size: 0.9rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.filters button:hover {
+    background-color: #eee;
+}
+
+.products {
+    flex: 4;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+

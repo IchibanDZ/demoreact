@@ -1,0 +1,30 @@
+body {
+    margin:0;
+}
+
+#root{
+    display:flex
+}
+
+.container{
+    width:1200px;
+    margin:auto;
+    display:flex
+}
+
+main{
+    width:75%
+}
+
+h1{
+    text-align:center
+}
+
+aside {
+    width: 25%
+}
+
+aside h2 {
+    text-align:center
+}
+
